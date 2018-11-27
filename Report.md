@@ -22,9 +22,12 @@ WEIGHT_DECAY = 0.0001
 
 ## Training plots
 I solved the environment in 210 episodes. I used Udacity's GPU and it took me around 20 minutes to solve the environment and something more than 30 minutes and 42 seconds to iterate over 300 episodes.
+
 ![Second_training_1](/images/Second_training_1.PNG)
+
 ![Second_training_2](/images/Second_training_2.PNG)
 A previous implementation of the DDPG agent gave me this result.
+
 ![First_training](/images/First_training.PNG)
 ## Ideas for future work
 As introduced in the [Benchmarking Deep Reinforcement Learning for Continuous Control](https://arxiv.org/pdf/1604.06778.pdf) Truncated Natural Policy Gradient (TNPG) and Trust Region Policy Optimization (TRPO)  (Schulman et al., 2015) should improve the learning speed of the algorithm. In addition to that, I could use the simulator with 20 agents to speed up learning.
