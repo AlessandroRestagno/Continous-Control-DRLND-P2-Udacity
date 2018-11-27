@@ -26,6 +26,7 @@ I solved the environment in 210 episodes. I used Udacity's GPU and it took me ar
 ![Second_training_1](/images/Second_training_1.PNG)
 
 ![Second_training_2](/images/Second_training_2.PNG)
+
 A previous implementation of the DDPG agent gave me this result.
 
 ![First_training](/images/First_training.PNG)
