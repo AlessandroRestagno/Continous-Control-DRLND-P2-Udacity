@@ -24,11 +24,13 @@ WEIGHT_DECAY = 0.0001
 I solved the environment in 210 episodes. I used Udacity's GPU and it took me around one day to solve the environment and more time to to iterate over 600 episodes.
 ### First training
 ![First_training_1](/images/Capture1.PNG)
+
 Only last 100 episodes are plotted
 ### Second training
 ![Second_training_2](/images/Capture2.PNG)
 ### Third training
 ![Third_training_3](/images/Capture3.PNG)
+
 Only last 100 episodes are plotted
 ### Fourth training
 ![Fourth_training_4](/images/Capture4.PNG)
