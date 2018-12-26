@@ -21,7 +21,7 @@ WEIGHT_DECAY = 0.0001
 
 
 ## Training plots
-I solved the environment in 210 episodes. I used Udacity's GPU and it took me around one day to solve the environment and more time to to iterate over 600 episodes.
+I solved the environment in 210 episodes. I used Udacity's GPU and it took me around half day to solve the environment and more than 18 hours to iterate over 600 episodes.
 ### First training
 ![First_training_1](/images/Capture1.PNG)
 
