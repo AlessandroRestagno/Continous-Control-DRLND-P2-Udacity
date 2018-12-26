@@ -23,9 +23,13 @@ WEIGHT_DECAY = 0.0001
 ## Training plots
 I solved the environment in 210 episodes. I used Udacity's GPU and it took me around 20 minutes to solve the environment and something more than 30 minutes and 42 seconds to iterate over 300 episodes.
 
-![Second_training_1](/images/Second_training_1.PNG)
+![First_training_1](/images/Capture1.PNG)
 
-![Second_training_2](/images/Second_training_2.PNG)
+![Second_training_2](/images/Capture2.PNG)
+
+![Third_training_3](/images/Capture3.PNG)
+
+![Fourth_training_4](/images/Capture4.PNG)
 
 A previous implementation of the DDPG agent gave me this result.
 
